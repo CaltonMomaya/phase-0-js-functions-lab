@@ -8,8 +8,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "**Lab: Functions in JavaScript**",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "directories": {
+    "test": "test"
   }
 }
